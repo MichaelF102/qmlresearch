@@ -6,7 +6,6 @@ import tempfile
 import time
 import gzip
 from collections import Counter
-from PyPDF2 import PdfReader
 import plotly.express as px
 import plotly.graph_objects as go
 st.set_page_config(
@@ -876,4 +875,5 @@ if section == "References":
 8.	Arute, F. et al. (Google AI Quantum and collaborators) (2019). Quantum supremacy using a programmable superconducting processor. Nature, 574, 505–510.
 9.	Cao, Y., Romero, J., Olson, J. P., Degroote, M., Johnson, P. D., Kieferová, M., … & Aspuru-Guzik, A. (2019). Quantum chemistry in the age of quantum computing. Chemical Reviews, 119(19), 10856–10915.
 10.	Woerner, S., & Egger, D. J. (2019). Quantum risk analysis. npj Quantum Information, 5(1), 1–8.
+
 """)
