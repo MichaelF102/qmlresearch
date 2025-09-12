@@ -6,8 +6,6 @@ import tempfile
 import time
 import gzip
 from collections import Counter
-import plotly.express as px
-import plotly.graph_objects as go
 st.set_page_config(
     page_title="RM CIA 2",
     page_icon="📝",
@@ -877,3 +875,4 @@ if section == "References":
 10.	Woerner, S., & Egger, D. J. (2019). Quantum risk analysis. npj Quantum Information, 5(1), 1–8.
 
 """)
+
