@@ -81,9 +81,10 @@ The real shift is not just speed but perspective. Finance problems can be framed
     st.image("img38.png", width='stretch')
     st.image("img37.webp", width='stretch')
     st.image("img36.webp",  width='stretch')
-    st.image("img20.jpeg", caption="QML vs Classical ML", width='stretch')
+    
     st.image("img3.webp",  width='stretch')
     st.image("img39.png",  width='stretch')
+    st.image("img20.jpeg", caption="QML vs Classical ML", width='stretch')
 
 
 if section == "Research Objective":
@@ -873,5 +874,6 @@ if section == "References":
 10.	Woerner, S., & Egger, D. J. (2019). Quantum risk analysis. npj Quantum Information, 5(1), 1–8.
 
 """)
+
 
 
