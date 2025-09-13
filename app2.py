@@ -863,17 +863,20 @@ Ultimately, QML’s integration with Big Data is not just a computational upgrad
 if section == "References":
     st.markdown("""
 1.	Boucher, A., & Kondratyev, A. (2021). Quantum Machine Learning in Finance: From Theory to Applications. Journal of Financial Data Science, 3(4), 1–19.
-2.	Orús, R., Mugel, S., & Lizaso, E. (2019). Quantum computing for finance: Overview and prospects. Reviews in Physics, 4, 100028.
-3.	Rebentrost, P., Mohseni, M., & Lloyd, S. (2014). Quantum support vector machine for big data classification. Physical Review Letters, 113(13), 130503.
-4.	Farhi, E., Goldstone, J., & Gutmann, S. (2014). A Quantum Approximate Optimization Algorithm. arXiv preprint arXiv:1411.4028.
-5.	Preskill, J. (2018). Quantum Computing in the NISQ era and beyond. Quantum, 2, 79.
-6.	Schuld, M., Sinayskiy, I., & Petruccione, F. (2015). An introduction to quantum machine learning. Contemporary Physics, 56(2), 172–185.
-7.	Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information (10th Anniversary ed.). Cambridge University Press.
-8.	Arute, F. et al. (Google AI Quantum and collaborators) (2019). Quantum supremacy using a programmable superconducting processor. Nature, 574, 505–510.
-9.	Cao, Y., Romero, J., Olson, J. P., Degroote, M., Johnson, P. D., Kieferová, M., … & Aspuru-Guzik, A. (2019). Quantum chemistry in the age of quantum computing. Chemical Reviews, 119(19), 10856–10915.
-10.	Woerner, S., & Egger, D. J. (2019). Quantum risk analysis. npj Quantum Information, 5(1), 1–8.
+2.	Rebentrost, P., Mohseni, M., & Lloyd, S. (2014). Quantum support vector machine for big data classification. Physical Review Letters, 113(13), 130503.
+3.	Farhi, E., Goldstone, J., & Gutmann, S. (2014). A Quantum Approximate Optimization Algorithm. arXiv preprint arXiv:1411.4028.
+4.	Preskill, J. (2018). Quantum Computing in the NISQ era and beyond. Quantum, 2, 79.
+5.	Schuld, M., Sinayskiy, I., & Petruccione, F. (2015). An introduction to quantum machine learning. Contemporary Physics, 56(2), 172–185.
+6.	Applications of Quantum Machine Learning for Quantitative Finance (arXiv, 2024)
+7.	AI integration in financial services: a systematic review of 1989-2024 (Vuković et al., 2025)
+8.	Exploring the application of quantum technologies to industrial and real-world use cases by Osaba, Villar-Rodriguez, Oregi (2025)
+9.	Financial Fraud Detection: A Comparative Study of Quantum Machine Learning Models (Innan, Al-Zafar Khan, Bennai, 2023)
+10.	AI and Financial Model Risk Management: Applications (S. Joshi, 2025)
+11.	Quantum-Computing in Finance: Regulatory Readiness, Legal Gaps and the Future of Secure Tech Innovation
+
 
 """)
+
 
 
 
